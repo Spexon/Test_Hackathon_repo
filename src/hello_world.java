@@ -14,5 +14,7 @@ public class hello_world {
       System.out.println("quick maths");
 
       System.out.println("Another commit coming soon");
+
+      System.out.println("Hi Vlad");
   }
 }
