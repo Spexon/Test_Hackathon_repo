@@ -3,5 +3,8 @@ public class hello_world {
       System.out.println("Hello world!");
 
       System.out.println("What's up world!");
+
+      TestClass tc = new TestClass();
+      tc.testOutput();
   }
 }
