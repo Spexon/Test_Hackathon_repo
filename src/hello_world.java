@@ -8,5 +8,7 @@ public class hello_world {
       tc.testOutput();
 
       System.out.println("12 + 42 = " + (12 + 42));
+
+      System.out.println("quick maths");
   }
 }
