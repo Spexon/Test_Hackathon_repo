@@ -16,5 +16,7 @@ public class hello_world {
       System.out.println("Another commit coming soon");
 
       System.out.println("Hi Vlad");
+
+      System.out.println("Hi Shellhack");
   }
 }
