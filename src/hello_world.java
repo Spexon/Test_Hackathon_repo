@@ -8,5 +8,7 @@ public class hello_world {
       tc.testOutput();
 
       System.out.println("12 + 42 = " + (12 + 42));
+
+      // New branch for Vlad... Start on product below:
   }
 }
