@@ -9,6 +9,9 @@ public class hello_world {
 
       System.out.println("12 + 42 = " + (12 + 42));
 
+      // New branch for Vlad... Start on product below:
+
       System.out.println("quick maths");
+
   }
 }
