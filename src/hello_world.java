@@ -6,5 +6,7 @@ public class hello_world {
 
       TestClass tc = new TestClass();
       tc.testOutput();
+
+      System.out.println("12 + 42 = " + (12 + 42));
   }
 }
