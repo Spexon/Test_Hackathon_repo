@@ -10,5 +10,6 @@ public class hello_world {
       System.out.println("12 + 42 = " + (12 + 42));
 
       System.out.println("quick maths");
+      System.out.println("Another commit coming soon");
   }
 }
