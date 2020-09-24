@@ -17,6 +17,6 @@ public class hello_world {
 
       System.out.println("Hi Vlad");
 
-      System.out.println("Hi Shellhack");
+      System.out.println("Hi Shell hack");
   }
 }
